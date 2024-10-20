@@ -1,0 +1,1 @@
+Generative artificial intelligence (GenAI) is a type of AI that uses generative models to create new content, such as text, images, videos, music, and audio. GenAI models are trained on large amounts of data, and can produce outputs that appear creative
